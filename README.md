@@ -10,3 +10,8 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg"   width="40" height="40" />
 
 ### On the backend I opted to work with the Spring Framework using Spring boot to build a Rest API. Spring is a modular framework, so when we use it we have to add modules according to our needs. Modules used: Spring Web, Spring Data JPA, PostgreSQL Driver, Validation and Lombok. You can read and understand more at: https://spring.io/projects . The database used was PostgreSQL, that's why we added the PostgreSQL Driver module to Spring Boot, when running this project you need to configure the connection to the database and this is possible in the file: application.properties . Within the project, the architecture of Java was based on MVC standards, through the construction of Models, Services, Repositories and Controllers. 
+
+
+# The final project ended up with this interface:
+
+![print_crud](https://github.com/CaioPereir4/Crud-Books/assets/87405897/c1ac6198-9635-4e65-8732-b4b847d90d6d)
